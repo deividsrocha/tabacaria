@@ -59,6 +59,7 @@ body{
 .carrinho{
   position: relative;
   max-width: 100%;
+  margin: 0 2%;
   max-height: 100%;
   top: -60%;
   float: right;
@@ -77,6 +78,8 @@ body{
   width: 20%;
   height: 100%;
   top: 0;
+  padding: 0;
+  margin: 0;
   background-color: rgb(32, 255, 199);
 }
 
