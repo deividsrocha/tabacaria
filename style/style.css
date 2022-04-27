@@ -64,12 +64,11 @@ body{
   float: right;
 }
 
-.categorias{
-  height: 100%;
-  width: 100%;
-  background-color: black;
+.produtos-categorias{
   position: relative;
-  top: -1000px;
+  top: -20px;
+  padding: 15% 0 40px 0;
+  background-color: #ffffff;
 }
 
 
