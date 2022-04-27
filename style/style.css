@@ -6,7 +6,7 @@
 }
 
 body{
-	background-color: rgb(224, 224, 224);
+	background-color: rgb(255, 255, 255);
 }
 
 .cabecalho{
@@ -68,7 +68,7 @@ body{
   position: relative;
   top: -20px;
   padding: 15% 0 40px 0;
-  background-color: #ffffff;
+  background-color: rgb(224, 224, 224);
 }
 
 
